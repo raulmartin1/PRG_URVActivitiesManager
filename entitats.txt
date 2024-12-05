@@ -1,0 +1,29 @@
+URV;123456789;urvcat
+BMW;13102313;bmw.com
+Mercedes;98765432;mercedes.com
+Ford;11122233;ford.com
+Audi;44455566;audi.com
+Toyota;77788899;toyota.com
+Honda;55544433;honda.com
+Chevrolet;99988877;chevrolet.com
+Volkswagen;12378945;volkswagen.com
+Nissan;65432198;nissan.com
+Tesla;78945612;tesla.com
+Porsche;13579246;porsche.com
+Jaguar;24681357;jaguar.com
+Lexus;10111213;lexus.com
+Hyundai;20212223;hyundai.com
+Kia;30313233;kia.com
+Subaru;40414243;subaru.com
+Volvo;50515253;volvo.com
+Ferrari;60616263;ferrari.com
+Lamborghini;70717273;lamborghini.com
+Maserati;80818283;maserati.com
+Rolls-Royce;90919293;rollsroyce.com
+Alfa Romeo;12131415;alfaromeo.com
+Fiat;16171819;fiat.com
+Jeep;21222324;jeep.com
+McLaren;25262728;mclaren.com
+Bugatti;29303132;bugatti.com
+Land Rover;33343536;landrover.com
+Mini;37383940;mini.com

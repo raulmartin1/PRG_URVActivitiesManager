@@ -1,0 +1,28 @@
+Paco;Tarragona;43004;10;BMV;658697552;dqp220504@gmail.com;true;true
+Raul;Barcelona;43004;9;TOMMY;345678901;martinm@gmail.com;0;Paki
+Nico;Lleida;43004;2;VIENA;123456789;ncanton@gmail.com;17;1;20
+Alex;Barcelona;8020;5;EventosVIP;987654321;info@eventosvip.com;19;2;50
+María;Madrid;28045;12;CateringExpress;654321987;cateringexpress@email.com;15;3;30
+Juan;Valencia;46002;8;TeatroValencia;111222333;info@teatrovalencia.es;20;2;100
+Laura;Sevilla;41005;3;ConferenciasInspira;555666777;contacto@inspiraconferencias.com;18;1;80
+Carlos;Zaragoza;50007;10;GastronomíaArtesanal;999888777;info@gastronomiaartesanal.com;21;2;40
+Marta;Málaga;29010;17;ExpoArte;444333222;expomarta@email.com;12;4;120
+Javier;Bilbao;48004;22;ClubNocturno;777666555;reservas@clubnocturno.es;23;5;200
+Elena;Alicante;3001;9;FestivalCine;222111444;cinealicante@email.com;16;2;60
+Pablo;Murcia;30002;14;FeriaGastronómica;888777999;feriamurcia@email.com;19;3;70
+Sandra;Granada;18001;6;SeminarioCiencia;333444555;cienciagranada@email.com;14;2;90
+Pablo;Reus;43001;9;BMV;333333333;tusabe@gmail.com;true;true
+Juan;Madrid;28001;5;Adidas;123456789;juan@gmail.com;0;Carlos
+Marta;Barcelona;8002;8;Nike;987654321;marta@gmail.com;0;Elena
+Pedro;Valencia;46003;3;Puma;456789012;pedro@gmail.com;0;Luis
+Ana;Sevilla;41004;6;Reebok;234567890;ana@gmail.com;0;Laura
+Javier;Zaragoza;50005;10;Converse;345678901;javier@gmail.com;0;Sofia
+Carmen;Bilbao;48006;2;Vans;567890123;carmen@gmail.com;0;Diego
+Paula;Alicante;3007;7;New Balance;678901234;paula@gmail.com;0;Manuel
+Jorge;Murcia;30008;1;Under Armour;789012345;jorge@gmail.com;0;Maria
+Laura;Granada;18009;4;Fila;890123456;laura@gmail.com;0;Antonio
+Raquel;Reus;43010;9;Lacoste;901234567;raquel@gmail.com;0;Daniel
+Martina;Valencia;46001;5;Adidas;123456789;martina@gmail.com;false;true
+Carlos;Barcelona;8002;8;Nike;987654321;carlos@gmail.com;true;false
+Laura;Sevilla;41003;3;Puma;456789012;laura@gmail.com;false;true
+Paco;Tarragona;43004;10;BMV;658697552;dqp220504@gmail.com;true;true
